@@ -1,0 +1,4 @@
+﻿  kiefer_prog3.cpp
+C:\Users\Maddison\Desktop\Baker College\C++ Programming\kiefer_prog3\kiefer_prog3.cpp(36,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maddison\Desktop\Baker College\C++ Programming\kiefer_prog3\kiefer_prog3.cpp(36,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  kiefer_prog3.vcxproj -> C:\Users\Maddison\Desktop\Baker College\C++ Programming\kiefer_prog3\x64\Debug\kiefer_prog3.exe
